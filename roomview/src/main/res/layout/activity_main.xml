@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.daydao.roomview.MainActivity">
+
+    <com.daydao.roomview.RoomView
+        android:id="@+id/roomView"
+        app:leftbgColor="@color/colorAasdccent"
+        app:middleLineColor="@color/colorAasdccent"
+        app:rightbgColor="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"/>
+
+    <com.daydao.roomview.RoomView
+        android:id="@+id/roomView1"
+        app:leftbgColor="@color/colorAasdccent"
+        app:middleLineColor="@color/colorAasdccent"
+        app:rightbgColor="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"/>
+
+
+    <com.daydao.roomview.RoomView
+        android:id="@+id/roomView2"
+        app:leftbgColor="@color/colorAasdccent"
+        app:middleLineColor="@color/colorAasdccent"
+        app:rightbgColor="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>

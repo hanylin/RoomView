@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoomView">
+        <attr name="leftTextColor" format="color|reference"/>
+        <attr name="leftbgColor" format="color|reference"/>
+        <attr name="rightTextColor" format="color|reference"/>
+        <attr name="rightbgColor" format="color|reference"/>
+        <attr name="middleLineColor" format="color|reference"/>
+        <attr name="leftTextSize" format="dimension|reference"/>
+        <attr name="rightTextSize" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
