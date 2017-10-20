@@ -16,8 +16,6 @@ import android.view.View;
 /**
  * @Author:Han
  * @Create:2017/6/8
- * @Home:yu_han@daydao.com
- * @Copyright:2017 com.daydao.wy
  **/
 
 public class RoomView extends View {
